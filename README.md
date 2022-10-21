@@ -8,7 +8,7 @@ In an attempt to develop an algorith to predict which low budget movie will be p
 
 ### Purpose
 
-Assist Britta as extracts, transforms, and loafs sata into a SQL table to provide for participants of the hackathon. 
+Assist Britta as she extracts, transforms, and loads data into a SQL table to provide for participants of the hackathon. 
 
 -- scrape of Wikipedia for all movies release since 1990
 
