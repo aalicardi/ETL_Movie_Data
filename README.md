@@ -13,9 +13,3 @@ Assist Britta as she extracts, transforms, and loads data into a SQL table to pr
 -- scrape of Wikipedia for all movies release since 1990
 
 -- rating data from Movie Land website.
-
-## Analysis and Challenges  
-
-## Results
-
-## Summary
